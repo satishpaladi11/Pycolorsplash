@@ -6,6 +6,8 @@ Pretrained model can be downloaded from the link below
     
     
 Give a image as an input to the program, It adds a colorsplash effect to the image as shown below...
+
+
 ![GitHub Logo](/splashdiff.png)
 
 ## If you like the repository,give a star ★★★★★★★★
